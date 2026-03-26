@@ -3,6 +3,9 @@
 
 # Database
 *.db
+*.db-shm
+*.db-wal
+*.db-journal
 
 # Python
 __pycache__/
