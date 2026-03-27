@@ -40,3 +40,7 @@ build/
 dist/
 wheels/
 *.egg-info/
+_bmad/
+/.claude
+/kitkat.db-shm
+/kitkat.db-wal
